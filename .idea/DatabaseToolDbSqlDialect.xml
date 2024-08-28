@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DatabaseToolDbSqlDialect">
+    <option name="dialects">
+      <map>
+        <entry key="$APPLICATION_CONFIG_DIR$/consoles/database-tool/39a61f14-b735-45d5-b1a1-fc8ad33a73c5/console.sql" value="PostgreSQL" />
+        <entry key="$APPLICATION_CONFIG_DIR$/consoles/database-tool/4f014a3a-3d0c-4ea6-aa95-ccc7cba8b5c9/console.sql" value="PostgreSQL" />
+        <entry key="$PROJECT_DIR$/spring-boot-pagination/src/main/resources/test.sql" value="MySQL" />
+      </map>
+    </option>
+  </component>
+</project>
